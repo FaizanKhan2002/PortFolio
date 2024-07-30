@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { BiHomeAlt } from "react-icons/bi";
 import { SunDim, Menu, X, User, Code, SquareUser, Layers3 } from "lucide-react";
